@@ -1,0 +1,4 @@
+﻿  parking_by_file_handling_final.cpp
+C:\Users\bscs2227\source\repos\parking_by_file_handling_final\parking_by_file_handling_final\parking_by_file_handling_final.cpp(148,16): warning C4018: '<': signed/unsigned mismatch
+C:\Users\bscs2227\source\repos\parking_by_file_handling_final\parking_by_file_handling_final\parking_by_file_handling_final.cpp(197,12): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  parking_by_file_handling_final.vcxproj -> C:\Users\bscs2227\source\repos\parking_by_file_handling_final\Debug\parking_by_file_handling_final.exe
